@@ -1,0 +1,5 @@
+Curso Design Patterns em PHP: padrões criacionais I
+Curso Design Patterns em PHP: padrões criacionais II
+Curso Design Patterns em PHP: padrões criacionais III
+Curso de PDO: Persistência com PHP
+Curso de TDD: Testes com PHP

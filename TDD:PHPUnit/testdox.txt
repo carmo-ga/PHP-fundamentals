@@ -1,0 +1,25 @@
+Leilao (Alura\Leilao\Tests\Model\Leilao)
+ [x] Leilao nao deve receber lances repetidos
+ [x] Leilao nao deve aceitar mais de 5 lances por usuario
+ [x] Leilao deve receber lances with data set "2-lances"
+ [x] Leilao deve receber lances with data set "1-lance"
+
+Avaliador (Alura\Leilao\Tests\Service\Avaliador)
+ [x] Avaliador deve encontrar o maior valor de lances em ordem crescente with data set "ordemCrescente"
+ [x] Avaliador deve encontrar o maior valor de lances em ordem crescente with data set "ordemDecrescente"
+ [x] Avaliador deve encontrar o maior valor de lances em ordem crescente with data set "ordemAleatoria"
+ [x] Avaliador deve encontrar o maior valor de lances em ordem decrescente with data set "ordemCrescente"
+ [x] Avaliador deve encontrar o maior valor de lances em ordem decrescente with data set "ordemDecrescente"
+ [x] Avaliador deve encontrar o maior valor de lances em ordem decrescente with data set "ordemAleatoria"
+ [x] Avaliador deve encontrar o menor valor de lances em ordem decrescente with data set "ordemCrescente"
+ [x] Avaliador deve encontrar o menor valor de lances em ordem decrescente with data set "ordemDecrescente"
+ [x] Avaliador deve encontrar o menor valor de lances em ordem decrescente with data set "ordemAleatoria"
+ [x] Avaliador deve encontrar o menor valor de lances em ordem crescente with data set "ordemCrescente"
+ [x] Avaliador deve encontrar o menor valor de lances em ordem crescente with data set "ordemDecrescente"
+ [x] Avaliador deve encontrar o menor valor de lances em ordem crescente with data set "ordemAleatoria"
+ [x] Avaliador deve buscar os tres maiores lances with data set "ordemCrescente"
+ [x] Avaliador deve buscar os tres maiores lances with data set "ordemDecrescente"
+ [x] Avaliador deve buscar os tres maiores lances with data set "ordemAleatoria"
+ [x] Leilao vazio nao pode ser avaliado
+ [x] Leilao finalizado nao pode ser avaliado
+

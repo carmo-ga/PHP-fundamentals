@@ -1,0 +1,31 @@
+Curso PHP: conceitos, lidando com dados, loops e mais
+Curso Avançando com PHP: Arrays, Strings, Função e Web
+Curso PHP Strings: manipulando textos com PHP
+Curso PHP: manipulando coleções com Arrays
+Curso PHP: dominando as Collections
+Curso Orientação a Objetos com PHP: Classes, métodos e atributos
+Curso Avançando com Orientação a Objetos com PHP: Herança, Polimorfismo e Interfaces
+Curso PHP Composer: Dependências, Autoload e Publicação
+Curso PHP Exceptions: tratamento de erros
+Curso PHP I/O: trabalhando com arquivos e streams
+Curso PHP e Behavior Driven Development: BDD com Behat
+Curso PHP Parallel: Processos, Threads e Channels
+Curso PHP e Domain Driven Design: apresentando os conceitos
+Curso PHP Reativo: programação assíncrona em tempo real
+Curso PHP e PDO: trabalhando com bancos de dados
+Curso PHP e Selenium: testes de ponta a ponta
+Curso Object Calisthenics: exercitando a Orientação a Objetos
+Curso Metaprogramação com PHP: API de Reflection
+Curso Refatoração em PHP: boas práticas no seu código
+Curso XDebug: ferramenta de debug e profiling
+Curso PHP e TDD: testes com PHPUnit
+Curso Mocks em PHP: entenda os dublês de testes
+Curso PHP Refatoração: boas práticas no seu código
+Curso PHP na Web: lidando com segurança e API
+Curso PHP na Web: aplicando boas práticas e PSRs
+Curso Design Patterns em PHP: padrões comportamentais
+Curso Design Patterns em PHP: padrões estruturais
+Curso Symfony Framework: cache e segurança
+Curso Symfony Framework: criando uma aplicação com MVC
+Curso Symfony Framework: formulários, validação e sessão
+Curso Symfony Framework: lidando com eventos, tradução, logs e deploy
